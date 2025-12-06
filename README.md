@@ -79,7 +79,7 @@ Each folder has a single responsibility — makes it easier to maintain, debug, 
 
 Clone the repo:
 
-git clone https://github.com/<your-username>/stock-trend-analyzer
+git clone https://github.com/jasmon-labs/stock-trend-analyzer
 cd stock-trend-analyzer
 
 Install requirements:
@@ -118,7 +118,7 @@ The analyzer gives you:
 🛠 Tech Stack
 	•	Python
 	•	NumPy, Pandas (data handling)
-	•	Matplotlib, Seaborn, Plotly (charts)
+	•	Matplotlib, Seaborn
 	•	scikit-learn (forecasting)
 	•	yfinance (data source)
 
