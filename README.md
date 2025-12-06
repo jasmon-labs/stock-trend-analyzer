@@ -150,13 +150,3 @@ This is a good starting point for anyone aiming at fintech, quantitative roles, 
 
 Jasmon
 2nd-year Engineering Student • Fintech + Quant Curious • Learning Python & Market Analysis
-
-
-
-If you want, I can also:
-
-💬 refine the tone even more
-🧹 tailor it to an internship you’re applying for
-🎨 add badges, shields, or visuals to make it even more aesthetic
-
-Want a slightly more professional version or a more fun + Gen-Z styled one?
