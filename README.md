@@ -43,37 +43,6 @@ Extras
 
 
 
-🏗 Project Structure
-
-stock-trend-analyzer/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── indicators/
-│   ├── sma.py
-│   ├── ema.py
-│   ├── rsi.py
-│   ├── macd.py
-│
-├── plots/
-│   ├── trend_plot.py
-│   ├── rsi_plot.py
-│   ├── macd_plot.py
-│
-├── models/
-│   └── forecast.py
-│
-├── utils/
-│   └── data_loader.py
-│
-├── charts/
-└── reports/
-
-Each folder has a single responsibility — makes it easier to maintain, debug, or scale later.
-
-
 
 📦 Installation
 
